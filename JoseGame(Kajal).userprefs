@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\LevelSetting.cs">
+    <Files>
+      <File FileName="Assets\Scripts\MyPlayer.cs" Line="51" Column="29" />
+      <File FileName="Assets\Scripts\RotateImageFinal.cs" Line="34" Column="4" />
+      <File FileName="Assets\Scripts\InitSpirel.cs" Line="287" Column="21" />
+      <File FileName="Assets\Scripts\MultyPlayerController.cs" Line="102" Column="3" />
+      <File FileName="Assets\Scripts\LevelSetting.cs" Line="112" Column="44" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

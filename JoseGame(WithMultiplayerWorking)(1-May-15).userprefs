@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Trigger.cs">
+    <Files>
+      <File FileName="Assets\LevelSetting.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\InitSpirel.cs" Line="441" Column="31" />
+      <File FileName="Assets\Scripts\Trigger.cs" Line="366" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
