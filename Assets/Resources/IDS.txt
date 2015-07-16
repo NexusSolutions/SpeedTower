@@ -1,0 +1,34 @@
+Life2
+Life5
+Life11
+Life22
+Point200
+Point500
+Point2500
+Point5000
+Armour2
+Armour5
+Armour11
+Invisible2
+Invisible5
+Invisible11
+Mulitplayer
+Life2
+Life5
+Life11
+Life22
+Point200
+Point500
+Point2500
+Point5000
+Armour2
+Armour5
+Armour11
+Invisible2
+Invisible5
+Invisible11
+Mulitplayer
+fghdft6dtydfghjtf6ufghjft6757e5tydxr6e46yxdyxfdrye5xd645d67456xdry6xdftyf57dr57rfctuycf57cfr57ycftuyt67ucrftufrtcyr5y7dcrhf5yf57
+
+//First 15 are of android and second 15 are of iOS
+// licence Key for Android

@@ -1,0 +1,819 @@
+fileFormatVersion: 2
+guid: 4f503e2b2dd64e4499517df790c147f1
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: girl_final2:girl_final2:girl_final:pCube5
+    100002: girl_final2:girl_final2:girl_final:pSphere1
+    100004: girl_final2:girl_final2:girl_final:pSphere2
+    100006: girl_final2:group1
+    100008: joint1
+    100010: joint10
+    100012: joint11
+    100014: joint12
+    100016: joint13
+    100018: joint14
+    100020: joint15
+    100022: joint16
+    100024: joint17
+    100026: joint18
+    100028: joint19
+    100030: joint2
+    100032: joint20
+    100034: joint20 1
+    100036: joint20 2
+    100038: joint20 3
+    100040: joint20 4
+    100042: joint21
+    100044: joint21 1
+    100046: joint21 2
+    100048: joint21 3
+    100050: joint21 4
+    100052: joint22
+    100054: joint23
+    100056: joint24
+    100058: joint25
+    100060: joint26
+    100062: joint27
+    100064: joint28
+    100066: joint29
+    100068: joint3
+    100070: joint30
+    100072: joint31
+    100074: joint32
+    100076: joint33
+    100078: joint34
+    100080: joint35
+    100082: joint36
+    100084: joint37
+    100086: joint38
+    100088: joint39
+    100090: joint4
+    100092: joint40
+    100094: joint41
+    100096: joint42
+    100098: joint43
+    100100: joint44
+    100102: joint45
+    100104: joint46
+    100106: joint5
+    100108: joint6
+    100110: joint7
+    100112: joint8
+    100114: joint9
+    100116: nurbsCircle1
+    100118: nurbsCircle4
+    100120: //RootNode
+    400000: girl_final2:girl_final2:girl_final:pCube5
+    400002: girl_final2:girl_final2:girl_final:pSphere1
+    400004: girl_final2:girl_final2:girl_final:pSphere2
+    400006: girl_final2:group1
+    400008: joint1
+    400010: joint10
+    400012: joint11
+    400014: joint12
+    400016: joint13
+    400018: joint14
+    400020: joint15
+    400022: joint16
+    400024: joint17
+    400026: joint18
+    400028: joint19
+    400030: joint2
+    400032: joint20
+    400034: joint20 1
+    400036: joint20 2
+    400038: joint20 3
+    400040: joint20 4
+    400042: joint21
+    400044: joint21 1
+    400046: joint21 2
+    400048: joint21 3
+    400050: joint21 4
+    400052: joint22
+    400054: joint23
+    400056: joint24
+    400058: joint25
+    400060: joint26
+    400062: joint27
+    400064: joint28
+    400066: joint29
+    400068: joint3
+    400070: joint30
+    400072: joint31
+    400074: joint32
+    400076: joint33
+    400078: joint34
+    400080: joint35
+    400082: joint36
+    400084: joint37
+    400086: joint38
+    400088: joint39
+    400090: joint4
+    400092: joint40
+    400094: joint41
+    400096: joint42
+    400098: joint43
+    400100: joint44
+    400102: joint45
+    400104: joint46
+    400106: joint5
+    400108: joint6
+    400110: joint7
+    400112: joint8
+    400114: joint9
+    400116: nurbsCircle1
+    400118: nurbsCircle4
+    400120: //RootNode
+    2300000: girl_final2:girl_final2:girl_final:pSphere1
+    2300002: girl_final2:girl_final2:girl_final:pSphere2
+    3300000: girl_final2:girl_final2:girl_final:pSphere1
+    3300002: girl_final2:girl_final2:girl_final:pSphere2
+    4300000: girl_final2:girl_final2:girl_final:pCube5
+    4300002: girl_final2:girl_final2:girl_final:pSphere1
+    4300004: girl_final2:girl_final2:girl_final:pSphere2
+    7400000: Take 001
+    7400002: Run
+    7400004: idle
+    7400006: Down
+    7400008: jump
+    9500000: //RootNode
+    13700000: girl_final2:girl_final2:girl_final:pCube5
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Run
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 15
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: girl_final2:group1
+        weight: 1
+      - path: girl_final2:group1/girl_final2:girl_final2:girl_final:pCube5
+        weight: 1
+      - path: nurbsCircle1
+        weight: 1
+      - path: nurbsCircle1/joint9
+        weight: 1
+      - path: nurbsCircle1/joint9/joint1
+        weight: 1
+      - path: nurbsCircle1/joint9/joint1/joint2
+        weight: 1
+      - path: nurbsCircle1/joint9/joint1/joint2/joint3
+        weight: 1
+      - path: nurbsCircle1/joint9/joint1/joint2/joint3/joint4
+        weight: 1
+      - path: nurbsCircle1/joint9/joint5
+        weight: 1
+      - path: nurbsCircle1/joint9/joint5/joint6
+        weight: 1
+      - path: nurbsCircle1/joint9/joint5/joint6/joint7
+        weight: 1
+      - path: nurbsCircle1/joint9/joint5/joint6/joint7/joint8
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint14
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint14/girl_final2:girl_final2:girl_final:pSphere1
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint14/girl_final2:girl_final2:girl_final:pSphere2
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint14/joint46
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint14/joint46/joint15
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint44
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint44/joint16
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint44/joint16/joint17
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint44/joint16/joint17/joint18
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint44/joint16/joint17/joint18/joint19
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint44/joint16/joint17/joint18/joint19/joint20
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint44/joint16/joint17/joint18/joint19/joint20/joint21
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint44/joint16/joint17/joint18/joint22
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint44/joint16/joint17/joint18/joint22/joint20
+          1
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint44/joint16/joint17/joint18/joint22/joint20
+          1/joint21 1
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint44/joint16/joint17/joint18/joint23
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint44/joint16/joint17/joint18/joint23/joint20
+          2
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint44/joint16/joint17/joint18/joint23/joint20
+          2/joint21 2
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint44/joint16/joint17/joint18/joint24
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint44/joint16/joint17/joint18/joint24/joint20
+          3
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint44/joint16/joint17/joint18/joint24/joint20
+          3/joint21 3
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint44/joint16/joint17/joint18/joint25
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint44/joint16/joint17/joint18/joint25/joint20
+          4
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint44/joint16/joint17/joint18/joint25/joint20
+          4/joint21 4
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint45
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint45/joint26
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint45/joint26/joint27
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint45/joint26/joint27/joint28
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint45/joint26/joint27/joint28/joint29
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint45/joint26/joint27/joint28/joint29/joint30
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint45/joint26/joint27/joint28/joint29/joint30/joint31
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint45/joint26/joint27/joint28/joint32
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint45/joint26/joint27/joint28/joint32/joint33
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint45/joint26/joint27/joint28/joint32/joint33/joint34
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint45/joint26/joint27/joint28/joint35
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint45/joint26/joint27/joint28/joint35/joint36
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint45/joint26/joint27/joint28/joint35/joint36/joint37
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint45/joint26/joint27/joint28/joint38
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint45/joint26/joint27/joint28/joint38/joint39
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint45/joint26/joint27/joint28/joint38/joint39/joint40
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint45/joint26/joint27/joint28/joint41
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint45/joint26/joint27/joint28/joint41/joint42
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint45/joint26/joint27/joint28/joint41/joint42/joint43
+        weight: 1
+      - path: nurbsCircle1/nurbsCircle4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: idle
+      takeName: Take 001
+      firstFrame: 20
+      lastFrame: 118
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: girl_final2:group1
+        weight: 1
+      - path: girl_final2:group1/girl_final2:girl_final2:girl_final:pCube5
+        weight: 1
+      - path: nurbsCircle1
+        weight: 1
+      - path: nurbsCircle1/joint9
+        weight: 1
+      - path: nurbsCircle1/joint9/joint1
+        weight: 1
+      - path: nurbsCircle1/joint9/joint1/joint2
+        weight: 1
+      - path: nurbsCircle1/joint9/joint1/joint2/joint3
+        weight: 1
+      - path: nurbsCircle1/joint9/joint1/joint2/joint3/joint4
+        weight: 1
+      - path: nurbsCircle1/joint9/joint5
+        weight: 1
+      - path: nurbsCircle1/joint9/joint5/joint6
+        weight: 1
+      - path: nurbsCircle1/joint9/joint5/joint6/joint7
+        weight: 1
+      - path: nurbsCircle1/joint9/joint5/joint6/joint7/joint8
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint14
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint14/girl_final2:girl_final2:girl_final:pSphere1
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint14/girl_final2:girl_final2:girl_final:pSphere2
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint14/joint46
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint14/joint46/joint15
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint44
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint44/joint16
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint44/joint16/joint17
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint44/joint16/joint17/joint18
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint44/joint16/joint17/joint18/joint19
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint44/joint16/joint17/joint18/joint19/joint20
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint44/joint16/joint17/joint18/joint19/joint20/joint21
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint44/joint16/joint17/joint18/joint22
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint44/joint16/joint17/joint18/joint22/joint20
+          1
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint44/joint16/joint17/joint18/joint22/joint20
+          1/joint21 1
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint44/joint16/joint17/joint18/joint23
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint44/joint16/joint17/joint18/joint23/joint20
+          2
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint44/joint16/joint17/joint18/joint23/joint20
+          2/joint21 2
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint44/joint16/joint17/joint18/joint24
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint44/joint16/joint17/joint18/joint24/joint20
+          3
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint44/joint16/joint17/joint18/joint24/joint20
+          3/joint21 3
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint44/joint16/joint17/joint18/joint25
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint44/joint16/joint17/joint18/joint25/joint20
+          4
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint44/joint16/joint17/joint18/joint25/joint20
+          4/joint21 4
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint45
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint45/joint26
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint45/joint26/joint27
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint45/joint26/joint27/joint28
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint45/joint26/joint27/joint28/joint29
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint45/joint26/joint27/joint28/joint29/joint30
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint45/joint26/joint27/joint28/joint29/joint30/joint31
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint45/joint26/joint27/joint28/joint32
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint45/joint26/joint27/joint28/joint32/joint33
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint45/joint26/joint27/joint28/joint32/joint33/joint34
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint45/joint26/joint27/joint28/joint35
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint45/joint26/joint27/joint28/joint35/joint36
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint45/joint26/joint27/joint28/joint35/joint36/joint37
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint45/joint26/joint27/joint28/joint38
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint45/joint26/joint27/joint28/joint38/joint39
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint45/joint26/joint27/joint28/joint38/joint39/joint40
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint45/joint26/joint27/joint28/joint41
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint45/joint26/joint27/joint28/joint41/joint42
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint45/joint26/joint27/joint28/joint41/joint42/joint43
+        weight: 1
+      - path: nurbsCircle1/nurbsCircle4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Down
+      takeName: Take 001
+      firstFrame: 138
+      lastFrame: 154
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: girl_final2:group1
+        weight: 1
+      - path: girl_final2:group1/girl_final2:girl_final2:girl_final:pCube5
+        weight: 1
+      - path: nurbsCircle1
+        weight: 1
+      - path: nurbsCircle1/joint9
+        weight: 1
+      - path: nurbsCircle1/joint9/joint1
+        weight: 1
+      - path: nurbsCircle1/joint9/joint1/joint2
+        weight: 1
+      - path: nurbsCircle1/joint9/joint1/joint2/joint3
+        weight: 1
+      - path: nurbsCircle1/joint9/joint1/joint2/joint3/joint4
+        weight: 1
+      - path: nurbsCircle1/joint9/joint5
+        weight: 1
+      - path: nurbsCircle1/joint9/joint5/joint6
+        weight: 1
+      - path: nurbsCircle1/joint9/joint5/joint6/joint7
+        weight: 1
+      - path: nurbsCircle1/joint9/joint5/joint6/joint7/joint8
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint14
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint14/girl_final2:girl_final2:girl_final:pSphere1
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint14/girl_final2:girl_final2:girl_final:pSphere2
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint14/joint46
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint14/joint46/joint15
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint44
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint44/joint16
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint44/joint16/joint17
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint44/joint16/joint17/joint18
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint44/joint16/joint17/joint18/joint19
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint44/joint16/joint17/joint18/joint19/joint20
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint44/joint16/joint17/joint18/joint19/joint20/joint21
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint44/joint16/joint17/joint18/joint22
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint44/joint16/joint17/joint18/joint22/joint20
+          1
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint44/joint16/joint17/joint18/joint22/joint20
+          1/joint21 1
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint44/joint16/joint17/joint18/joint23
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint44/joint16/joint17/joint18/joint23/joint20
+          2
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint44/joint16/joint17/joint18/joint23/joint20
+          2/joint21 2
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint44/joint16/joint17/joint18/joint24
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint44/joint16/joint17/joint18/joint24/joint20
+          3
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint44/joint16/joint17/joint18/joint24/joint20
+          3/joint21 3
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint44/joint16/joint17/joint18/joint25
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint44/joint16/joint17/joint18/joint25/joint20
+          4
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint44/joint16/joint17/joint18/joint25/joint20
+          4/joint21 4
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint45
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint45/joint26
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint45/joint26/joint27
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint45/joint26/joint27/joint28
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint45/joint26/joint27/joint28/joint29
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint45/joint26/joint27/joint28/joint29/joint30
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint45/joint26/joint27/joint28/joint29/joint30/joint31
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint45/joint26/joint27/joint28/joint32
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint45/joint26/joint27/joint28/joint32/joint33
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint45/joint26/joint27/joint28/joint32/joint33/joint34
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint45/joint26/joint27/joint28/joint35
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint45/joint26/joint27/joint28/joint35/joint36
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint45/joint26/joint27/joint28/joint35/joint36/joint37
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint45/joint26/joint27/joint28/joint38
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint45/joint26/joint27/joint28/joint38/joint39
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint45/joint26/joint27/joint28/joint38/joint39/joint40
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint45/joint26/joint27/joint28/joint41
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint45/joint26/joint27/joint28/joint41/joint42
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint45/joint26/joint27/joint28/joint41/joint42/joint43
+        weight: 1
+      - path: nurbsCircle1/nurbsCircle4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: jump
+      takeName: Take 001
+      firstFrame: 155
+      lastFrame: 165
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: girl_final2:group1
+        weight: 1
+      - path: girl_final2:group1/girl_final2:girl_final2:girl_final:pCube5
+        weight: 1
+      - path: nurbsCircle1
+        weight: 1
+      - path: nurbsCircle1/joint9
+        weight: 1
+      - path: nurbsCircle1/joint9/joint1
+        weight: 1
+      - path: nurbsCircle1/joint9/joint1/joint2
+        weight: 1
+      - path: nurbsCircle1/joint9/joint1/joint2/joint3
+        weight: 1
+      - path: nurbsCircle1/joint9/joint1/joint2/joint3/joint4
+        weight: 1
+      - path: nurbsCircle1/joint9/joint5
+        weight: 1
+      - path: nurbsCircle1/joint9/joint5/joint6
+        weight: 1
+      - path: nurbsCircle1/joint9/joint5/joint6/joint7
+        weight: 1
+      - path: nurbsCircle1/joint9/joint5/joint6/joint7/joint8
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint14
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint14/girl_final2:girl_final2:girl_final:pSphere1
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint14/girl_final2:girl_final2:girl_final:pSphere2
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint14/joint46
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint14/joint46/joint15
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint44
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint44/joint16
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint44/joint16/joint17
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint44/joint16/joint17/joint18
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint44/joint16/joint17/joint18/joint19
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint44/joint16/joint17/joint18/joint19/joint20
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint44/joint16/joint17/joint18/joint19/joint20/joint21
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint44/joint16/joint17/joint18/joint22
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint44/joint16/joint17/joint18/joint22/joint20
+          1
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint44/joint16/joint17/joint18/joint22/joint20
+          1/joint21 1
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint44/joint16/joint17/joint18/joint23
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint44/joint16/joint17/joint18/joint23/joint20
+          2
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint44/joint16/joint17/joint18/joint23/joint20
+          2/joint21 2
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint44/joint16/joint17/joint18/joint24
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint44/joint16/joint17/joint18/joint24/joint20
+          3
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint44/joint16/joint17/joint18/joint24/joint20
+          3/joint21 3
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint44/joint16/joint17/joint18/joint25
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint44/joint16/joint17/joint18/joint25/joint20
+          4
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint44/joint16/joint17/joint18/joint25/joint20
+          4/joint21 4
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint45
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint45/joint26
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint45/joint26/joint27
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint45/joint26/joint27/joint28
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint45/joint26/joint27/joint28/joint29
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint45/joint26/joint27/joint28/joint29/joint30
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint45/joint26/joint27/joint28/joint29/joint30/joint31
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint45/joint26/joint27/joint28/joint32
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint45/joint26/joint27/joint28/joint32/joint33
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint45/joint26/joint27/joint28/joint32/joint33/joint34
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint45/joint26/joint27/joint28/joint35
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint45/joint26/joint27/joint28/joint35/joint36
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint45/joint26/joint27/joint28/joint35/joint36/joint37
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint45/joint26/joint27/joint28/joint38
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint45/joint26/joint27/joint28/joint38/joint39
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint45/joint26/joint27/joint28/joint38/joint39/joint40
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint45/joint26/joint27/joint28/joint41
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint45/joint26/joint27/joint28/joint41/joint42
+        weight: 1
+      - path: nurbsCircle1/joint9/joint10/joint11/joint12/joint13/joint45/joint26/joint27/joint28/joint41/joint42/joint43
+        weight: 1
+      - path: nurbsCircle1/nurbsCircle4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

@@ -1,0 +1,4 @@
+1 frame to 15 frame run cycle
+20 frame to 118 frame idle animation
+138 frame to 154 frame roll animation
+155 frame to 165 frame jump animation
